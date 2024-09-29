@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Lab4_PRN212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C9AF0-9ECB-4C1B-B68A-2EEFEE68E70F}|Lab4_PRN212\\Lab4_PRN212.csproj|c:\\users\\asus\\source\\repos\\lab4_prn212\\lab4_prn212\\exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C9AF0-9ECB-4C1B-B68A-2EEFEE68E70F}|Lab4_PRN212\\Lab4_PRN212.csproj|solutionrelative:lab4_prn212\\exercise5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C9AF0-9ECB-4C1B-B68A-2EEFEE68E70F}|Lab4_PRN212\\Lab4_PRN212.csproj|c:\\users\\asus\\source\\repos\\lab4_prn212\\lab4_prn212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C9AF0-9ECB-4C1B-B68A-2EEFEE68E70F}|Lab4_PRN212\\Lab4_PRN212.csproj|solutionrelative:lab4_prn212\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7C9AF0-9ECB-4C1B-B68A-2EEFEE68E70F}|Lab4_PRN212\\Lab4_PRN212.csproj|c:\\users\\asus\\source\\repos\\lab4_prn212\\lab4_prn212\\exercise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7C9AF0-9ECB-4C1B-B68A-2EEFEE68E70F}|Lab4_PRN212\\Lab4_PRN212.csproj|solutionrelative:lab4_prn212\\exercise4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise5.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Lab4_PRN212\\Lab4_PRN212\\Exercise5.cs",
+              "RelativeDocumentMoniker": "Lab4_PRN212\\Exercise5.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Lab4_PRN212\\Lab4_PRN212\\Exercise5.cs",
+              "RelativeToolTip": "Lab4_PRN212\\Exercise5.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:22:38.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise4.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Lab4_PRN212\\Lab4_PRN212\\Exercise4.cs",
+              "RelativeDocumentMoniker": "Lab4_PRN212\\Exercise4.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Lab4_PRN212\\Lab4_PRN212\\Exercise4.cs",
+              "RelativeToolTip": "Lab4_PRN212\\Exercise4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:50:16.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Lab4_PRN212\\Lab4_PRN212\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_PRN212\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Lab4_PRN212\\Lab4_PRN212\\Program.cs",
+              "RelativeToolTip": "Lab4_PRN212\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T03:15:00.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
